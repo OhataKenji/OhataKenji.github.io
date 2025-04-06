@@ -1,6 +1,6 @@
 baseURL = 'https://OhataKenji.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja_jp'
+title = 'OhataKenji Website'
 theme = 'ananke'
 [caches]
 [caches.images]
